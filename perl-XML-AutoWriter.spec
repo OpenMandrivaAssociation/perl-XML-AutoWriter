@@ -12,7 +12,6 @@ Source:		ftp://ftp.perl.org/pub/CPAN/modules/by-module/XML/%{module}-%{version}.
 Url:		http://search.cpan.org/dist/%{module}
 BuildRequires:	perl-devel 
 BuildRequires:  perl(XML::Parser)
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot/
 BuildArch:	noarch
 
 %description
