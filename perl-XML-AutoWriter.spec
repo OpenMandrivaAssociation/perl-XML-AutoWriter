@@ -1,6 +1,6 @@
 %define module	XML-AutoWriter
 %define version 0.39
-%define release %mkrel 3
+%define release %mkrel 5
 
 Summary:	Perl module to do DOCTYPE based XML output
 Name:		perl-%{module}
