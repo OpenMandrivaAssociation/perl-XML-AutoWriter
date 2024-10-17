@@ -9,7 +9,7 @@ Summary:	Perl module to do DOCTYPE based XML output
 
 License:	GPL
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/XML/%{upstream_name}-%{upstream_version}.tar.gz
 Patch0:		XML-AutoWriter-0.4-fix_module_install_obsolete_keyword.patch
 
